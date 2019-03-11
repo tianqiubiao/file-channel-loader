@@ -1,6 +1,6 @@
 {
   "name": "@ali/file-channel-loader",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "webpack loader",
   "main": "index.js",
   "scripts": {
@@ -28,5 +28,4 @@
   "publishConfig": {
     "registry": "https://registry.npm.alibaba-inc.com"
   }
-
 }
