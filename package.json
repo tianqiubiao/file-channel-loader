@@ -1,0 +1,28 @@
+{
+  "name": "file-channel-loader",
+  "version": "1.0.0",
+  "description": "webpack loader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tianqiubiao/file-channel-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "file-channel-loader",
+    "loader"
+  ],
+  "author": "tianqiubiao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tianqiubiao/file-channel-loader/issues"
+  },
+  "homepage": "https://github.com/tianqiubiao/file-channel-loader#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
