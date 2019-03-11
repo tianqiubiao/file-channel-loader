@@ -16,7 +16,9 @@ module.exports = function (source, map, meta) {
     let req = reqList[reqList.length - 1];
     req = req.replace(this.query, "");
     let channel = "";
-    if (queryObj.channel) {
+    if (queryObj.undeed) {
+
+    } else if (queryObj.channel) {
         channel = queryObj.channel + "\\";
     } else if (process.env.channel) {
         channel = process.env.channel + "\\";
