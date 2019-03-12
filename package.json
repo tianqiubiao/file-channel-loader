@@ -1,6 +1,6 @@
 {
   "name": "@ali/file-channel-loader",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "description": "webpack loader",
   "main": "index.js",
   "scripts": {
